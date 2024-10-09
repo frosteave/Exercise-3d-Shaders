@@ -22,4 +22,4 @@ The final step adding "juicy" features to a simple brick-breaker game.
 Power-ups, etc.
 
 ## Created by 
-* Alyssa Luckritz
+Alyssa Luckritz
